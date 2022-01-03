@@ -1,1 +1,1 @@
-# pyrthon-data-analysis-modelling_beginner
+# python-data-analysis-modelling_beginner
