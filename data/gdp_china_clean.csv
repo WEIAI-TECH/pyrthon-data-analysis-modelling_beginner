@@ -1,3 +1,5 @@
+Table: Social Economic Development Data of First 5 Big Provinces by GDP 						
+
 Province,GDP ranking ,Year  ,GDP (x10^12CNY),population (x10^7 person),fixed assets investment (x10^12 CNY),total imports and exports (x10^8CNY),fiscal expenditure(x10^12CNY),urban disposal income per capita (x10^4CNY)
 Guangdong,First,2000,1.074125,8.65,0.314513,1.40814657,0.108032,0.976157
 Guangdong,First,2001,1.203925,8.733,0.348443,14.609701,0.132133,1.041519
@@ -94,3 +96,10 @@ Henan,Fifth,2015,3.700216,9.48,3.566035,0.45953484,0.679935,2.557561
 Henan,Fifth,2016,4.047179,9.532,4.041509,0.47138464,0.745374,2.723292
 Henan,Fifth,2017,4.455283,9.392,4.44969,0.00052339,0.821552,2.95579
 Henan,Fifth,2018,4.805586,9.36,4.45096,0.55117,0.921773,3.18742
+
+Sources: China Statistical Yearbooks (2001, 2002-2019)					
+Gongdong  Statistical Yearbooks (2001, 2002-2019)					
+Jiangsu  Statistical Yearbooks (2001, 2002-2019)					
+Shangdong Statistical Yearbooks (2001, 2002-2019)					
+Zhejiang Statistical Yearbooks (2001, 2002-2019)					
+Henan  Statistical Yearbooks (2001, 2002-2019)					
